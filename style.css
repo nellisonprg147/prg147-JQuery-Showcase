@@ -1,0 +1,153 @@
+@charset "UTF-8";
+.bodyimage{
+    background-image: url("images/halloween-1759580_1280.png");
+}
+#goat{
+    position: absolute;
+    top: 400px;
+    left: 400px;
+    cursor: pointer;
+}
+#top{
+    background-color: transparent;
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    top: 350px;
+    left: 400px;
+    cursor: pointer;
+
+}
+#bottom {
+    background-color: transparent;
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    top: 620px;
+    left: 400px;
+    cursor: pointer;
+}
+#left{
+    background-color: transparent;
+    position: absolute;
+    height: 320px;
+    width: 50px;
+    top: 350px;
+    left: 350px;
+    cursor: pointer;
+
+}
+#right{
+    background-color: transparent;
+    position: absolute;
+    height: 320px;
+    width: 50px;
+    top: 350px;
+    left: 600px;
+    cursor: pointer;
+}
+#eyeLeft{
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: white;
+    min-height: 30px;
+    min-width: 30px;
+    position: absolute;
+    top: 470px;
+    left: 460px;
+
+}
+#eyeRight{
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: white;
+    min-height: 30px;
+    min-width: 30px;
+    position: absolute;
+    top: 470px;
+    left: 502px;
+}
+#pupilLeft{
+    background-color: black;
+    border-radius: 5px;
+    position: absolute;
+    height: 9px;
+    width:9px;
+    left: 474px;
+    top: 483px;
+}
+#pupilRight{
+    background-color: black;
+    border-radius: 5px;
+    position: absolute;
+    height: 9px;
+    width:9px;
+    top: 483px;
+    left: 514px;
+}
+#gost{
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    cursor: pointer;
+
+}
+#gostWithBag{
+    position: absolute;
+    top: 420px;
+    left: 710px;
+    cursor: pointer;
+}
+#gostWithCan{
+    position: absolute;
+    top: 600px;
+    left: 50px;
+    cursor: pointer;
+}
+#headStone{
+    position: absolute;
+    top: 600px;
+    left: 150px;
+    cursor: pointer;
+}
+#bat{
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    cursor: pointer;
+}
+#santa{
+    position: absolute;
+    top: 600px;
+    left: 850px;
+    cursor: pointer;
+}
+#kapow{
+    display: none;
+}
+#sprayPaint{
+    background-color: transparent;
+    color: black;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    min-height: 50px;
+    min-width: 70px;
+    position: absolute;
+    top: 610px;
+    left: 175px;
+    display: none;
+}
+.footer {
+    background-color: transparent;
+    text-align: center;
+    min-height: 50px;
+    padding: 20px;
+    font-size: 1em;
+    margin: auto;
+    clear: left;
+}
+
+
